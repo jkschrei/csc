@@ -81,7 +81,7 @@ img:hover{
   margin: 64px auto;
 }
 
-.note{
+#note{
 	text-align: center;
 	font-family: 'Source Code Pro', monospace;
 	padding:20px;
