@@ -42,7 +42,6 @@ img:hover{
   position: absolute;
   padding:20px;
   color:#FFFFFF;
-  font-family: 'Poiret One', cursive;
 }
 
 :host {
@@ -118,7 +117,6 @@ paper-card{
   max-width:275px;
   height: 350px;
   overflow:hidden;
-  font-family: 'Source Code Pro', monospace;
 }
 
 paper-toolbar{
