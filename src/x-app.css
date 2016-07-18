@@ -84,6 +84,7 @@ img:hover{
 	text-align: center;
 	padding:20px;
 	font-size:18px;
+	font-family:;
 }
 
 paper-material {
@@ -117,6 +118,10 @@ paper-card{
   height: 350px;
   overflow:hidden;
   font-family: 'Roboto Mono', monospace;
+}
+
+paper-tabs{
+	font-family: 'Roboto Mono', monospace;
 }
 
 paper-toolbar{
