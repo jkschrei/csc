@@ -112,11 +112,12 @@ iron-image:hover{
 paper-card{
   background-color: #2C3945;
   --paper-card-header-color: #75DD7E;
-  margin: 2%;
-  min-width:150px;
-  max-width:275px;
+  left:2%;
+  top: 20px;
+  width:300px;
   height: 350px;
   overflow:hidden;
+  font-family: 'Roboto Mono', monospace;
 }
 
 paper-toolbar{
