@@ -55,7 +55,7 @@ img:hover{
 }
 
 .list-panel{
-	background-color:#2C3945;
+  background-color:#2C3945;
 }
 
 .list paper-item {
@@ -82,7 +82,6 @@ img:hover{
 
 .note{
 	text-align: center;
-	font-family: 'Source Code Pro', monospace;
 	padding:20px;
 	font-size:18px;
 }
